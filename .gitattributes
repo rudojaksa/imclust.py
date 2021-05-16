@@ -1,0 +1,3 @@
+.git*     linguist-vendored
+.gr       linguist-vendored
+*.md      linguist-documentation
